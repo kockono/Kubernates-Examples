@@ -1,12 +1,8 @@
 Problematica como podemos correr 10 o 20 instanceas con docker compose es complicado, las instanceas serían como ganado
 
 ## Documentación
-```embed
-title: "kubectl Cheat Sheet"
-image: "https://kubernetes.io/images/kubernetes-horizontal-color.png"
-description: "This page contains a list of commonly used kubectl commands and flags. Note: These instructions are for Kubernetes v1.29. To check the version, use the kubectl version command. Kubectl autocomplete BASH source <(kubectl completion bash) # set up autocomplete in bash into the current shell, bash-completion package should be installed first. echo “source <(kubectl completion bash)” >> ~/.bashrc # add autocomplete permanently to your bash shell. You can also use a shorthand alias for kubectl that also works with completion:"
-url: "https://kubernetes.io/docs/reference/kubectl/cheatsheet/"
-```
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/"
+
 
 
 ### Kubelet
